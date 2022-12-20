@@ -53,7 +53,7 @@
 Чтобы получить доступ к элементу HTML, JavaScript может использовать ```document.getElementById(id)```метод.
 
 Атрибут ```id```определяет элемент HTML. Свойство ```innerHTML``` определяет содержимое HTML:
-![Philadelphia's Magic Gardens. This place was so cool!](././%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.PNG"Philadelphia's Magic Gardens")
+[![N|Solid](./%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.PNG)
 # Использование ```document.write()```
 Для целей тестирования удобно использовать ```document.write():```
 ![Philadelphia's Magic Gardens. This place was so cool!](./foto3.PNG"Philadelphia's Magic Gardens")
