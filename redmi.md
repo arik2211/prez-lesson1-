@@ -64,7 +64,7 @@
 #### Вы можете использовать окно предупреждения для отображения данных
 ![Philadelphia's Magic Gardens. This place was so cool!](./foto6.PNG"Philadelphia's Magic Gardens")
 
-##### Вы можете пропустить windowключевое слово.
+##### Вы можете пропустить windowключевое слово.ibo
 
 ##### JavaScript объект окна является объектом глобальной области видимости. Это означает, что переменные, свойства и методы по умолчанию принадлежат объекту окна. Это также означает, что указывать windowключевое слово необязательно:
 ![Philadelphia's Magic Gardens. This place was so cool!](./foto%207.PNG"Philadelphia's Magic Gardens")
