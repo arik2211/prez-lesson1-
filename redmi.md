@@ -51,31 +51,31 @@
 Чтобы получить доступ к элементу HTML, JavaScript может использовать ```document.getElementById(id)```метод.
 
 Атрибут ```id```определяет элемент HTML. Свойство ```innerHTML``` определяет содержимое HTML:
-# foto 2
+![Philadelphia's Magic Gardens. This place was so cool!](./%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.PNG"Philadelphia's Magic Gardens")
 # Использование ```document.write()```
 Для целей тестирования удобно использовать ```document.write():```
-foto 3
+![Philadelphia's Magic Gardens. This place was so cool!](./foto3.PNG"Philadelphia's Magic Gardens")
 ```Использование document.write() после загрузки документа HTML удалит весь существующий HTML :```
-foto4
-foto5
+![Philadelphia's Magic Gardens. This place was so cool!](./foto4.PNG"Philadelphia's Magic Gardens")
+![Philadelphia's Magic Gardens. This place was so cool!](./foto5.PNG"Philadelphia's Magic Gardens")
 ##### ```Метод document.write() следует использовать только для тестирования.```
 
 # Использование window.alert()
 #### Вы можете использовать окно предупреждения для отображения данных
-foto 6
+![Philadelphia's Magic Gardens. This place was so cool!](./foto6.PNG"Philadelphia's Magic Gardens")
 
 ##### Вы можете пропустить windowключевое слово.
 
 ##### JavaScript объект окна является объектом глобальной области видимости. Это означает, что переменные, свойства и методы по умолчанию принадлежат объекту окна. Это также означает, что указывать windowключевое слово необязательно:
-foto 7
+![Philadelphia's Magic Gardens. This place was so cool!](./foto%207.PNG"Philadelphia's Magic Gardens")
 
 # ```Использование console.log()```
 ##### В целях отладки вы можете вызвать console.log()метод в браузере для отображения данных.
-foto 8
+![Philadelphia's Magic Gardens. This place was so cool!](./foto%208.PNG"Philadelphia's Magic Gardens")
 
 # Синтаксис JavaScript
 #### 3 Синтаксис JavaScript — это набор правил построения программ JavaScript:
-foto 9
+![Philadelphia's Magic Gardens. This place was so cool!](./foto9.PNG"Philadelphia's Magic Gardens")
 # Значения JavaScript
 #### Синтаксис JavaScript определяет два типа значений:
 
@@ -87,10 +87,10 @@ foto 9
 Два наиболее важных правила синтаксиса для фиксированных значений:
 
 1. **Числа** записываются с десятичными знаками или без них:
-# foto 10
+![Philadelphia's Magic Gardens. This place was so cool!](./foto%2010.PNG"Philadelphia's Magic Gardens")
 
 2. **Строки** — это текст, заключенный в двойные или одинарные кавычки:
-# foto 11
+![Philadelphia's Magic Gardens. This place was so cool!](./foto%2011.PNG"Philadelphia's Magic Gardens")
 
 # Переменные JavaScript
 В языке программирования **переменные** используются для **хранения** значений данных.
@@ -100,12 +100,12 @@ JavaScript использует ключевые слова ```var```и ```let``
 Знак **равенства** используется для **присвоения значений** переменным.
 
 В этом примере x определяется как переменная. Затем x присваивается (задается) значение 6:
-# foto 12
+![Philadelphia's Magic Gardens. This place was so cool!](./foto%2012.PNG"Philadelphia's Magic Gardens")
 # Операторы JavaScript
 #### JavaScript использует арифметические операторы ( + - * /) для вычисления значений:
-# foto 13
+![Philadelphia's Magic Gardens. This place was so cool!](./foto%2013.PNG"Philadelphia's Magic Gardens")
 #### JavaScript использует оператор присваивания ( =) для присвоения значений переменным:
-# foto 14
+![Philadelphia's Magic Gardens. This place was so cool!](./foto%2014.PNG"Philadelphia's Magic Gardens")
 # Выражения JavaScript
 Выражение — это комбинация значений, переменных и операторов, которая вычисляется до значения.
 
@@ -113,7 +113,7 @@ JavaScript использует ключевые слова ```var```и ```let``
 
 Например, 5 * 10 равно 50:
 
-#foto 15
+![Philadelphia's Magic Gardens. This place was so cool!](./foto15.PNG"Philadelphia's Magic Gardens")
 
 #### Выражения также могут содержать значения переменных:
 
@@ -122,16 +122,16 @@ JavaScript использует ключевые слова ```var```и ```let``
 zначения могут быть разных типов, например числа и строки.
 
 Например, ```"Джон" + " " + "Доу"``` оценивается как "Джон Доу":
-# foto 16
+![Philadelphia's Magic Gardens. This place was so cool!](./foto%2016.PNG"Philadelphia's Magic Gardens")
 
 #  слова JavaScript
 Ключевые слова JavaScript используются для обозначения действий, которые необходимо выполнить.
 
 Ключевое letслово указывает браузеру создавать переменные:
-# foto 17
+![Philadelphia's Magic Gardens. This place was so cool!](./foto%2017.PNG"Philadelphia's Magic Gardens")
 
 # Ключевое varслово также указывает браузеру создавать переменные:
-# foto 18
+![Philadelphia's Magic Gardens. This place was so cool!](./foto%2018.PNG"Philadelphia's Magic Gardens")
 # Комментарии JavaScript
 Не все операторы JavaScript "выполняются".
 
@@ -192,20 +192,20 @@ const price2 = 6;
 let total = price1 + price2;
 
 # Операторы JavaScript
-# foto 19
-# foto 20
+![Philadelphia's Magic Gardens. This place was so cool!](./foto19.PNG "Philadelphia's Magic Gardens")
+![Philadelphia's Magic Gardens. This place was so cool!](./foto%2020.PNG"Philadelphia's Magic Gardens")
 # Добавление строк JavaScript
 #### Оператор +также может использоваться для добавления (конкатенации) строк.
-# foto 21
+![Philadelphia's Magic Gardens. This place was so cool!](./foto21.PNG"Philadelphia's Magic Gardens")
 #### Оператор +=присваивания также можно использовать для добавления (объединения) строк:
 Оператор +=присваивания также можно использовать для добавления (объединения) 
-# foto 22
+![Philadelphia's Magic Gardens. This place was so cool!](./foto22.PNG"Philadelphia's Magic Gardens")
 # Добавление строк и чисел
 #### Сложение двух чисел вернет сумму, но сложение числа и строки вернет строку:
-# foto 23
+![Philadelphia's Magic Gardens. This place was so cool!](./foto23.PNG"Philadelphia's Magic Gardens")
 #### Если вы добавите число и строку, результатом будет строка!
-# foto 24
-# foto25
+![Philadelphia's Magic Gardens. This place was so cool!](./foto24.PNG"Philadelphia's Magic Gardens")
+![Philadelphia's Magic Gardens. This place was so cool!](./foto25.PNG"Philadelphia's Magic Gardens")
 # JavaScript, если, еще и еще, если
 #### словные операторы используются для выполнения различных действий на основе различных условий.
 ### Условные операторы
@@ -221,6 +221,6 @@ let total = price1 + price2;
 - Используйте ```switch```для указания множества альтернативных блоков кода, которые должны быть выполнены.
 
 #### Утверждение switchописано в следующей главе.
-# foto 28
-# foto 29
-# foto 30
+![Philadelphia's Magic Gardens. This place was so cool!](./foto28.PNG"Philadelphia's Magic Gardens")
+![Philadelphia's Magic Gardens. This place was so cool!](./foto%2029.PNG"Philadelphia's Magic Gardens")
+![Philadelphia's Magic Gardens. This place was so cool!](./foto30.PNG"Philadelphia's Magic Gardens")
